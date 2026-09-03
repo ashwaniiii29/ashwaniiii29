@@ -43,25 +43,16 @@
 │   🚀 Building Practical Projects                         │
 │   🌱 Learning Something New Every Day                    │
 │                                                          │
-└──────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=250&section=header&text=ASHWANI%20KUMAR%20SEN&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BCA%20%7C%20AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<h2>👋 Welcome to my GitHub!</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;🎓+BCA+2nd+Year+Student;🤖+AI+%2F+ML+Enthusiast;💻+Software+%26+Web+Developer;🚀+Building+Real-World+Projects;📚+Always+Learning+%26+Improving" alt="Typing SVG"/>
 
-<h3>
-🤖 AI/ML Enthusiast &nbsp; • &nbsp;
-💻 Software Developer &nbsp; • &nbsp;
-🌐 Web Developer
-</h3>
-
-<p>
-🎓 BCA 2nd Year &nbsp; | &nbsp;
-🚀 Building Real-World Projects &nbsp; | &nbsp;
-📚 Always Learning
-</p>
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/ashwani-kumar-62aa32325">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -87,41 +78,36 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
-## 🎓 BCA 2nd Year Student
+### 🎓 BCA 2nd Year Student
 
-### 🤖 Artificial Intelligence & Machine Learning Enthusiast
+**Artificial Intelligence & Machine Learning Enthusiast**
 
-<p>
-I'm passionate about <b>programming, software development, AI/ML,
-web development and creative design.</b>
-</p>
+I'm passionate about **programming, software development, AI/ML, web development and creative design**.
 
-<p>
 I enjoy learning new technologies and turning ideas into practical projects.
-</p>
 
 <br>
 
-### 💡 Learn • Build • Improve • Repeat 🚀
+**💡 Learn • Build • Improve • Repeat 🚀**
 
 </div>
 
 ---
 
-# ⚡ My Focus
+## ⚡ My Focus
 
 <table align="center">
 <tr>
 
 <td align="center" width="180">
 
-## 🤖
+### 🤖
 
-### AI / ML
+**AI / ML**
 
 Machine Learning  
 Artificial Intelligence  
@@ -131,9 +117,9 @@ Python
 
 <td align="center" width="180">
 
-## 💻
+### 💻
 
-### Development
+**Development**
 
 C / C++  
 Python  
@@ -143,9 +129,9 @@ JavaScript
 
 <td align="center" width="180">
 
-## 🌐
+### 🌐
 
-### Web
+**Web**
 
 HTML  
 CSS  
@@ -156,9 +142,9 @@ SQL
 
 <td align="center" width="180">
 
-## 🎨
+### 🎨
 
-### Design
+**Design**
 
 Photoshop  
 Illustrator  
@@ -175,21 +161,21 @@ Premiere Pro
 
 <div align="center">
 
-## 💻 Programming Languages
+### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql"/>
-
-<br><br>
-
-## 🌐 Development & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql" />
 
 <br><br>
 
-## 🎨 Creative Tools
+### 🌐 Development & Tools
 
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,linux" />
+
+<br><br>
+
+### 🎨 Creative Tools
+
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 
 <br><br>
 
@@ -203,28 +189,26 @@ Premiere Pro
 
 <div align="center">
 
-## 🎟️ Fresher Party QR System
-
-### QR-Based Entry Management System
-
-<p>
-A practical project focused on registration and QR-based entry management
-for a fresher party event.
-</p>
-
-<br>
-
 <a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwaniiii29&repo=FresherPartyQRSystem&theme=tokyonight&hide_border=true"/>
 
 </a>
 
-<br><br>
+### 🎟️ Fresher Party QR System
+
+**QR-Based Entry Management System**
+
+A practical project designed to manage event registration and QR-based entry for a fresher party.
+
+**🔧 Technologies:**  
+Python • QR Code • Database • Web Interface
+
+<br>
 
 <a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -236,8 +220,8 @@ for a fresher party event.
 
 <div align="center">
 
-| 🧠 Area | 📖 Focus |
-|:---:|:---|
+| 🧠 Area | 📖 Learning |
+|---|---|
 | 🐍 Python | Programming & AI/ML |
 | ⚙️ C++ | Problem Solving & DSA |
 | 🧩 Data Structures | Algorithms & Logic Building |
@@ -249,21 +233,19 @@ for a fresher party event.
 
 ---
 
-# 🎯 My Goals
-
-<div align="center">
+# 🎯 Goals
 
 ```text
 🎓 Complete BCA with strong technical skills
-                    ↓
+        ↓
 💻 Master Programming & Data Structures
-                    ↓
+        ↓
 🤖 Build practical AI/ML projects
-                    ↓
+        ↓
 🌐 Improve Web Development
-                    ↓
+        ↓
 🚀 Build a strong GitHub portfolio
-                    ↓
+        ↓
 🏆 Participate in Hackathons & Coding Events
-                    ↓
+        ↓
 💼 Prepare for Software Development Roles

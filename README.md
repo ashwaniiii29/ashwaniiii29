@@ -162,26 +162,24 @@ Premiere Pro
 
 ## 🎟️ Fresher Party QR System
 
-### QR-Based Entry Management System
+### 📱 QR-Based Entry Management System
 
 <p>
-A practical project focused on registration and QR-based entry management
-for a fresher party event.
+A practical project focused on registration and
+QR-based entry management for a fresher party event.
 </p>
 
 <br>
 
-<a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
+<img src="https://img.shields.io/badge/QR%20Code-Entry%20System-6A11CB?style=for-the-badge&logo=qrcode&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwaniiii29&repo=FresherPartyQRSystem&theme=tokyonight&hide_border=true"/>
-
-</a>
+<img src="https://img.shields.io/badge/Real--World%20Project-2575FC?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 <br><br>
 
 <a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐%20VIEW%20PROJECT%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 

@@ -12,13 +12,12 @@
 
 👋 **About Me**
 
-name: Ashwani Kumar Sen  
-education: BCA (Bachelor of Computer Applications) - 2nd Year  
-specialization: Artificial Intelligence & Machine Learning  
-identity: Pro Developer | Software Developer | Creative Designer  
-mindset: Lifelong Learner 🚀  
-currently_learning: Advancing in AI/ML, Programming & Design  
-fun_fact: I turn code into logic and pixels into art 🎨💻
+Name: Ashwani Kumar Sen  
+Education: BCA (Bachelor of Computer Applications) - 2nd Year  
+Identity: Pro Developer | Software Developer | Creative Designer  
+Mindset: Lifelong Learner 🚀  
+Currently_learning: Advancing in AI/ML, Programming & Design  
+Fun_fact: I turn code into logic and pixels into art 🎨💻
 
 <br/>
 

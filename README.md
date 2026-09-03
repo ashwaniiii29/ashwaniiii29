@@ -1,30 +1,76 @@
+<!-- ========================================================= -->
+<!--                  ASHWANI KUMAR PROFILE                   -->
+<!--              ULTIMATE GITHUB README 2026                 -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- HERO -->
+<!-- ===================== HERO HEADER ====================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:00ff88&text=ASHWANI%20KUMAR&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20ENTHUSIAST%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20BCA%20STUDENT&descAlignY=60&descSize=17&animation=twinkling"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0D1117,55:161B22,80:238636,100:00FF88&height=260&section=header&text=ASHWANI%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20ML%20ENTHUSIAST%20%7C%20DEVELOPER%20%7C%20BCA%20STUDENT&descAlignY=57&descSize=18&animation=twinkling"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+Ideas+Into+Reality;Learning+AI+%26+Machine+Learning;Writing+Code+Every+Day;Exploring+The+Future+Of+Technology" />
+<!-- ===================== TYPING =========================== -->
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Welcome+To+My+GitHub+Profile;AI+%2F+ML+Enthusiast;Software+Developer;Web+Developer;Python+Learner;Building+Ideas+Into+Reality;Learning+Something+New+Every+Day"
+/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ashwaniiii29&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+<!-- ===================== PROFILE VIEWS ==================== -->
+
+<img
+src="https://komarev.com/ghpvc/?username=ashwaniiii29&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"
+/>
 
 </div>
 
 ---
 
+<!-- ========================================================= -->
+<!--                         SOCIALS                           -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-## ⚡ `whoami`
+<a href="https://github.com/ashwaniiii29">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
-### **Ashwani Kumar**
+<a href="https://www.linkedin.com/in/ashwani-kumar-62aa32325">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
 
-**BCA Student | AI/ML Enthusiast | Developer**
+<a href="https://www.instagram.com/ashwaniiii_29">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
 
-> *"Learn. Build. Break. Fix. Repeat."*
+<a href="https://x.com/ashwaniiii_29">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:kumarashwani895757@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         ABOUT                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 👋 Hello, I'm Ashwani Kumar
+
+### `BCA Student • AI/ML Enthusiast • Developer`
 
 </div>
 
@@ -33,219 +79,20 @@
 ## 🧠 About Me
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   👋 Hello, I'm Ashwani Kumar                            │
-│                                                          │
-│   🎓 BCA Student                                         │
-│   🤖 Exploring Artificial Intelligence & ML              │
-│   💻 Improving Programming & Development Skills          │
-│   🚀 Building Practical Projects                         │
-│   🌱 Learning Something New Every Day                    │
-│                                                          │
-└──────────────────────────────────────────────────────────
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=250&section=header&text=ASHWANI%20KUMAR%20SEN&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BCA%20%7C%20AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=17" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;🎓+BCA+2nd+Year+Student;🤖+AI+%2F+ML+Enthusiast;💻+Software+%26+Web+Developer;🚀+Building+Real-World+Projects;📚+Always+Learning+%26+Improving" alt="Typing SVG"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/ashwani-kumar-62aa32325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ashwaniiii_29">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ashwaniiii_29">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:kumarashwani895757@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ashwaniiii29&label=PROFILE%20VIEWS&color=6A11CB&style=for-the-badge"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-### 🎓 BCA 2nd Year Student
-
-**Artificial Intelligence & Machine Learning Enthusiast**
-
-I'm passionate about **programming, software development, AI/ML, web development and creative design**.
-
-I enjoy learning new technologies and turning ideas into practical projects.
-
-<br>
-
-**💡 Learn • Build • Improve • Repeat 🚀**
-
-</div>
-
----
-
-## ⚡ My Focus
-
-<table align="center">
-<tr>
-
-<td align="center" width="180">
-
-### 🤖
-
-**AI / ML**
-
-Machine Learning  
-Artificial Intelligence  
-Python
-
-</td>
-
-<td align="center" width="180">
-
-### 💻
-
-**Development**
-
-C / C++  
-Python  
-JavaScript
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-
-**Web**
-
-HTML  
-CSS  
-JavaScript  
-SQL
-
-</td>
-
-<td align="center" width="180">
-
-### 🎨
-
-**Design**
-
-Photoshop  
-Illustrator  
-Premiere Pro
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql" />
-
-<br><br>
-
-### 🌐 Development & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,linux" />
-
-<br><br>
-
-### 🎨 Creative Tools
-
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwaniiii29&repo=FresherPartyQRSystem&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-### 🎟️ Fresher Party QR System
-
-**QR-Based Entry Management System**
-
-A practical project designed to manage event registration and QR-based entry for a fresher party.
-
-**🔧 Technologies:**  
-Python • QR Code • Database • Web Interface
-
-<br>
-
-<a href="https://github.com/ashwaniiii29/FresherPartyQRSystem">
-
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| 🧠 Area | 📖 Learning |
-|---|---|
-| 🐍 Python | Programming & AI/ML |
-| ⚙️ C++ | Problem Solving & DSA |
-| 🧩 Data Structures | Algorithms & Logic Building |
-| 🤖 AI / ML | Machine Learning Fundamentals |
-| 🌐 Web Development | Frontend & Backend |
-| 🗄️ SQL | Database Management |
-
-</div>
-
----
-
-# 🎯 Goals
-
-```text
-🎓 Complete BCA with strong technical skills
-        ↓
-💻 Master Programming & Data Structures
-        ↓
-🤖 Build practical AI/ML projects
-        ↓
-🌐 Improve Web Development
-        ↓
-🚀 Build a strong GitHub portfolio
-        ↓
-🏆 Participate in Hackathons & Coding Events
-        ↓
-💼 Prepare for Software Development Roles
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   👋 Hi, I'm Ashwani Kumar                                  │
+│                                                              │
+│   🎓 BCA Student                                             │
+│   🤖 Exploring Artificial Intelligence & Machine Learning    │
+│   💻 Learning Programming & Software Development             │
+│   🌐 Exploring Web Development                               │
+│   🗄️ Learning Databases                                     │
+│   🔧 Improving Git & GitHub                                  │
+│   🚀 Building practical projects                             │
+│                                                              │
+│   My goal is simple:                                        │
+│                                                              │
+│   LEARN → BUILD → TEST → IMPROVE → REPEAT                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
